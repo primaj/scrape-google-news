@@ -26,7 +26,7 @@ Last *{search_range} day/s*
 ------------------------------------------- 
 '''
 
-
+# Display articles found
 for row in range(1, data.shape[1]):
 
     f'''
